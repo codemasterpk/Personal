@@ -1,3 +1,3 @@
 # Personal
 
-<h1> Pravin Khandare</h1>
+<h6> Pravin Khandare</h6>
